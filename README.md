@@ -33,21 +33,21 @@
 </div>
 
 <div>
-  <h2>Exercícios 05</h2>
+  <h2>Exercício 05</h2>
   <div style="flex-direction: row; ">
     <img src=".github/gifs/EX05/LAYs.gif" height="550" widt="550"/>
   </div>
 </div>
 
 <div>
-  <h2>Exercícios 06</h2>
+  <h2>Exercício 06</h2>
   <div style="flex-direction: row; ">
     <img src=".github/gifs/EX06/comidas.gif" height="550" widt="550"/>
   </div>
 </div>
 
 <div>
-  <h2>Exercícios 07</h2>
+  <h2>Exercício 07</h2>
   <div style="flex-direction: row; ">
     <img src=".github/gifs/EX07/welcomeSQLite.gif" height="550" widt="550"/>
   </div>
